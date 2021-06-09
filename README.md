@@ -1,5 +1,7 @@
 Pure vanilla JS DOM manipulation for practice. `HTML`/`CSS`/`JS` (Unresponsive at the moment- WEB ONLY)
 
+![Screenshot from 2021-06-09 20-43-52](https://user-images.githubusercontent.com/51695282/121382227-030c9180-c964-11eb-970c-9d21faf0bcb5.png)
+
 **Major Learnings:**
  1. DOM Manipulation
  2. Event Delegation
