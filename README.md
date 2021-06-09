@@ -1,6 +1,6 @@
 Pure vanilla JS DOM manipulation for practice. `HTML`/`CSS`/`JS` (Unresponsive at the moment- WEB ONLY)
 
-**Major Learning:**
+**Major Learnings:**
  1. DOM Manipulation
  2. Event Delegation
  3. Observer API
